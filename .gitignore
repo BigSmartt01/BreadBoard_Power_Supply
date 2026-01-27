@@ -1,0 +1,38 @@
+# ========================
+# KiCad temporary files
+# ========================
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Auto-saved / lock files
+*.lck
+*.lock
+*.tmp
+
+# ========================
+# KiCad cache & rescue
+# ========================
+*-cache.lib
+*-rescue.lib
+*-cache.kicad_sym
+*-rescue.kicad_sym
+
+# ========================
+# OS / editor noise
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ========================
+# KiCad autosave folders
+# ========================
+_autosave-*
